@@ -9,7 +9,6 @@ from django.utils import timezone
 # Depois
 # owner (foreign key)
 
-
 class Category(models.Model):
     class Meta:
         verbose_name = 'Category'
