@@ -1,0 +1,11 @@
+Model Meta options
+
+```
+https://docs.djangoproject.com/pt-br/4.2/ref/models/options/
+```
+
+Como traduzir ou atualizar traduções do Django Web Framework
+
+```
+https://www.youtube.com/watch?v=iIsLwz_vkzA
+```
